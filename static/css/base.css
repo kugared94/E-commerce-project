@@ -27,6 +27,15 @@ body {
     width: fit-content;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.bg-text {
+    background: rgba(0, 0, 0, 0.3);
+}
+
 .buy-now-button {
     background: black;
     color: white;
