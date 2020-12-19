@@ -14,23 +14,23 @@
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="clothing-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="house-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 House Design
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Single storey</a>
-                <a href="" class="dropdown-item">Double storey</a>
+            <div class="dropdown-menu border-0" aria-labelledby="house-link">
+                <a href="{% url 'products' %}?category=single_storey" class="dropdown-item">Single storey</a>
+                <a href="{% url 'products' %}?category=double_storey" class="dropdown-item">Double storey</a>
             </div>
         </li>
 
         <li class="nav-item dropdown">
-            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="homeware-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <a class="logo-font font-weight-bold nav-link text-white mr-5" href="#" id="high-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 High Rise Design
             </a>
-            <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Apartment</a>
-                <a href="" class="dropdown-item">Hall</a>
-                <a href="" class="dropdown-item">Shopping Complex</a>
+            <div class="dropdown-menu border-0" aria-labelledby="high-link">
+                <a href="{% url 'products' %}?category=apartment" class="dropdown-item">Apartment</a>
+                <a href="{% url 'products' %}?category=hall" class="dropdown-item">Hall</a>
+                <a href="{% url 'products' %}?category=complex" class="dropdown-item">Complex</a>
             </div>
         </li>
 
@@ -39,9 +39,9 @@
                 Special Offers
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="specials-link">
-                <a href="" class="dropdown-item">New Design</a>
-                <a href="" class="dropdown-item">Deals</a>
-                <a href="" class="dropdown-item">All Specials</a>
+                <a href="{% url 'products' %}?category=new_design" class="dropdown-item">New Design</a>
+                <a href="{% url 'products' %}?category=deals" class="dropdown-item">Deals</a>
+                <a href="{% url 'products' %}?category=all_specials" class="dropdown-item">All Specials</a>
             </div>
         </li>
 
