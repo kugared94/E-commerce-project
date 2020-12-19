@@ -36,6 +36,11 @@ img {
     background: rgba(0, 0, 0, 0.3);
 }
 
+.bg-black-nav{
+    background: black;
+    color: white;
+}
+
 .buy-now-button {
     background: black;
     color: white;
