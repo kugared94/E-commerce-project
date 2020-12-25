@@ -45,6 +45,10 @@ INSTALLED_APPS = [
     'products',
     'bag',
     'checkout',
+
+    # Other
+
+    'crispy_forms',
 ]
 
 MIDDLEWARE = [
@@ -58,6 +62,8 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'mad_commerce.urls'
+
+CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 TEMPLATES = [
     {
@@ -73,8 +79,13 @@ TEMPLATES = [
                 'django.template.context_processors.request', # required by allauth
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.media',
                 'bag.contexts.bag_contents',
             ],
+            'builtins': [
+                'crispy_forms.templatetags.crispy_forms_tags',
+                'crispy_forms.templatetags.crispy_forms_field',
+            ]
         },
     },
 ]
@@ -158,5 +169,5 @@ STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
-FREE_DESIGN = 200
-STANDARD_DELIVERY_PERCENTAGE = 5
+FREE_THUMBDRIVE = 200
+STANDARD_DELIVERY_PERCENTAGE = 20

@@ -20,9 +20,9 @@ def bag_contents(request):
             'product': product,
         })
 
-    if total < settings.FREE_DESIGN:
+    if total < settings.FREE_THUMBDRIVE:
         delivery = total * Decimal(settings.STANDARD_DELIVERY_PERCENTAGE / 100)
-        free_delivery_delta = settings.FREE_DESIGN - total
+        free_delivery_delta = settings.FREE_THUMBDRIVE - total
     else:
         delivery = 0
         free_delivery_delta = 0
@@ -35,7 +35,7 @@ def bag_contents(request):
         'product_count': product_count,
         'delivery': delivery,
         'free_delivery_delta': free_delivery_delta,
-        'free_design': settings.FREE_DESIGN,
+        'free_thumbdrive': settings.FREE_THUMBDRIVE,
         'grand_total': grand_total,
     }
 
