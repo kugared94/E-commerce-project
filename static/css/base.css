@@ -105,6 +105,11 @@ a.category-badge > span.badge:hover {
     cursor: pointer;
 }
 
+input[name='q']::placeholder {
+    color: #202020;
+}
+
+
 /* ------------------------------- bootstrap toasts */
 
 .message-container {
