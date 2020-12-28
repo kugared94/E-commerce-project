@@ -64,8 +64,8 @@ img {
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus {
-    background: #222;
-    color: white;
+    background: rgb(255, 255, 255);
+    color: black;
 }
 
 .text-black {
