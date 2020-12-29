@@ -1,0 +1,1 @@
+web: gunicorn mad_commerce.wsgi:application
