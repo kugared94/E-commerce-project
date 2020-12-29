@@ -68,8 +68,8 @@ img {
     color: black;
 }
 
-.text-black {
-    color: #000 !important;
+.text-white {
+    color: rgb(255, 255, 255) !important;
 }
 
 .border-black {
