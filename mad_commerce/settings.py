@@ -26,7 +26,7 @@ SECRET_KEY = 'b8wbc(95q#b@2x6wu9%8$y6v9k@#8l^b43mspq^7zu6&9pi_0!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kugared94-e-commerce-project.herokuapp.com', 'localhost']
 
 
 # Application definition
