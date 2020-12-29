@@ -109,6 +109,10 @@ input[name='q']::placeholder {
     color: #202020;
 }
 
+.navbar-toggler-icon{
+    color: #ffffff;
+}
+
 
 /* ------------------------------- bootstrap toasts */
 
