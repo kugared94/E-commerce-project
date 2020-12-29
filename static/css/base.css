@@ -289,10 +289,12 @@ input[name='q']::placeholder {
     }
 
     .margin-top {
-        margin-top: 50px;
+        margin-top: 100px;
     }
 
     .buy-now-button {
-        margin: 20px,10px;
+    background: black;
+    color: white;
+    min-width: 150px;
     }
 }
