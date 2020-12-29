@@ -287,4 +287,12 @@ input[name='q']::placeholder {
     .header-container {
         padding-top: 164px;
     }
+
+    .margin-top {
+        margin-top: 50px;
+    }
+
+    .buy-now-button {
+        margin: 20px,10px;
+    }
 }
