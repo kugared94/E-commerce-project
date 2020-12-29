@@ -288,8 +288,4 @@ input[name='q']::placeholder {
     .header-container {
         padding-top: 164px;
     }
-
-    .margin-top {
-        margin-top: 200px;
-    }
 }
