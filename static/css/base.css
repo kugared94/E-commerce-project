@@ -274,15 +274,6 @@ input[name='q']::placeholder {
     border-radius: 0;
 }
 
-.margin-top {
-    margin-top: 300px;
-}
-
-.buy-now-button {
-    background: black;
-    color: white;
-    min-width: 200px;
-}
 
 /* fixed top navbar only on medium and up */
 @media (min-width: 992px) {
@@ -300,11 +291,5 @@ input[name='q']::placeholder {
 
     .margin-top {
         margin-top: 300px;
-    }
-
-    .buy-now-button {
-    background: black;
-    color: white;
-    min-width: 200px;
     }
 }
