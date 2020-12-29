@@ -109,11 +109,6 @@ input[name='q']::placeholder {
     color: #202020;
 }
 
-.navbar-light .navbar-toggler {
-    color: rgb(255, 255, 255);
-    border-color: rgb(255, 255, 255) 255, 0.1);
-}
-
 
 /* ------------------------------- bootstrap toasts */
 
