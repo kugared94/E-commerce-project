@@ -20,8 +20,12 @@ body {
 }
 
 .header-container-main-page {
-        padding-top: 300px;
-    }
+    padding-top: 600px;
+}
+
+.header-container {
+    padding-top: 400px;
+}
 
 .logo-font {
     text-transform: uppercase;

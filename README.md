@@ -4,7 +4,7 @@
 
 **Mad's Mover.**
 
-Mad's Mover is a company that serve multiple service to the customer in architecture and web design field.
+Mad Commerce is a company that sell a multiple design in architecture field.
 
 ## Table of contents
 * [Ux](#Ux)
@@ -16,10 +16,10 @@ Mad's Mover is a company that serve multiple service to the customer in architec
 * [Disclaimer](#Disclaimer)
 
 ## Ux
-What is Mad's Mover ?
-  * Mad's Mover is a fast and easy lorry rental ("lori sewa"), van and 4x4 booking platform. We provide services such as lorry transport, professional house moving, furniture disposal and office moving.
-    We partner with reputable and experienced drivers to ensure that your goods will be transported safely and securely to your final destination.
-    Try it out now to experience a new and fresh way to book cargo transportation in Malaysia!
+What is Mad Commerce ?
+  * Mad Commerce is a company that sell a multiple design in architecture field. 
+  We sell all the design, and our traget customer to the student, freelance, and
+  big architecture company as reference.
 
 ## Feature
 
@@ -60,12 +60,15 @@ What is Mad's Mover ?
 
 * W3c Validator
   - Using this website to check all the error in html.
-  
-* Google Cloud Platform
-  - Using this website to get the APi key for the google map.
-  
+
 * EmailJS
   - Using this website get the APi key for the contact area.
+
+* Hiroku
+  - Using this website as a deployment.
+
+* AWS Amazon
+  - Using this website to buy the domain.
 
 ## Deployment
 This project was developed using the GitPod, and pushed to GitHub using the built in function within GitPod.
@@ -80,12 +83,13 @@ To deploy the Mad's Lab, to GitHub Pages from its GitHub repository, the followi
   - Scroll back down to the GitHub Pages section.
   - You should now have a deployed link.
   
-The Mad's mover project made use of several branches for development, testing and bug fixing. The Master Branch has always been the one deployed to GitHUb Pages. When displaying the website life, the developer tries to keep the master branch to optimal code only. At the moment of submitting this Milestone project the Development Branch and Master Branch are identical.
+Mad Commerce project made use of several branches for development, testing and bug fixing. The Master Branch has always been the one deployed to GitHUb Pages. When displaying the website life, the developer tries to keep the master branch to optimal code only. At the moment of submitting this Milestone project the Development Branch and Master Branch are identical.
 
 ## Credits
 
 **Content**
-* All the content in this project is written by muhammad syafiq, and for the javascript is refer from stack overflow and google maps platform.
+* All the content in this project is written by muhammad syafiq and mostly of the code refer from the tutorial 
+Project - Boutique Ado, and for the javascript is refer from stack overflow.
 
 **Media**
 * Image
@@ -93,12 +97,12 @@ The Mad's mover project made use of several branches for development, testing an
   - The Google Images and are used for project purposes only.
   
 **Code**
-* Reference code for the html, css, and javascript are referred from W3School, Bootstrap, and stack overflow. 
+* Reference code for the html, css, and javascript are referred from W3School, Bootstrap, stack overflow, Hiroku, and AWS amazon. 
 
 ## Acknowledgements
 
 Special thanks to:
-* Code Institute Mentor, Miss Antonija Simic for his time and support in explaining and demonstrating areas of code this developer was struggling to understand.
+* Code Institute Mentor, Sir Brian for his time and support in explaining and demonstrating areas of code this developer was struggling to understand.
 * Code Institute Tutor, for their time and support in explaining and demonstrating areas of code this developer was struggling to understand. 
 
 ## Disclaimer

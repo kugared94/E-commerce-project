@@ -2,11 +2,11 @@
 {% load static %}
 
 {% block extra_css %}
-    <link rel="stylesheet" href="{% static 'contact/css/contact.css' %}">
+    <link rel="stylesheet" href="{% static 'css/contact.css' %}">
 {% endblock %}
 
 {% block page_header %}
-    <div class="container header-container">
+    <div class="container contact-container-main-page">
         <div class="row">
             <div class="col"></div>
         </div>
@@ -16,7 +16,7 @@
 {% block content %}
     <div class="col-12 contact-area" id="contact">
                     
-        <div class="wrapper">
+        <div class="wrapper contact">
             <h2>For further inquiries, please feel free to contact us !</h2>
             <div id="error_message"></div>
             
@@ -45,9 +45,7 @@
                 <div class="button">
                     <input type="submit">
                 </div>
-
             </form>
-
         </div>
     </div>
 {% endblock %}
@@ -63,6 +61,6 @@
         })();
     </script>
 
-    <script src="{% static 'contact/js/script.js' %}"></script>
-    <script src="{% static 'contact/js/sendEmail.js' %}"></script>
+    <script src="{% static 'js/script.js' %}"></script>
+    <script src="{% static 'js/sendEmail.js' %}"></script>
 {% endblock %}
