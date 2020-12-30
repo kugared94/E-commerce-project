@@ -1,45 +1,109 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+### Project Discription.
 
-Welcome muhammad syafiq bin abdul Razak,
+<img src="assets/image/logo-2.png" width="100">
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+**Mad's Mover.**
 
-## Gitpod Reminders
+Mad's Mover is a company that serve multiple service to the customer in architecture and web design field.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Table of contents
+* [Ux](#Ux)
+* [Feature](#Feature)
+* [Technologies-Used](#Technologies-Used)
+* [Deployment](#Deployment)
+* [Credits](#Credits)
+* [Acknowledgements](#Acknowledgements)
+* [Disclaimer](#Disclaimer)
 
-`python3 -m http.server`
+## Ux
+What is Mad's Mover ?
+  * Mad's Mover is a fast and easy lorry rental ("lori sewa"), van and 4x4 booking platform. We provide services such as lorry transport, professional house moving, furniture disposal and office moving.
+    We partner with reputable and experienced drivers to ensure that your goods will be transported safely and securely to your final destination.
+    Try it out now to experience a new and fresh way to book cargo transportation in Malaysia!
 
-A blue button should appear to click: *Make Public*,
+## Feature
 
-Another blue button should appear to click: *Open Browser*.
+<img src="assets/image/1.jpg" width="400">
+    - On arriving at the page for the first time, this word have been shown to inform the user what this website is about.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+<img src="assets/image/2.jpg" width="400">
+    - On the Count Distance, we provide customer map to count distance from starting point to destination, this code have been refer to developers.google.com.
 
-A blue button should appear to click: *Make Public*,
+<img src="assets/image/3.jpg" width="400">
+    - on the careers area, we shown avaiable position to those who seeking a job in the company.
 
-Another blue button should appear to click: *Open Browser*.
+<img src="assets/image/4.jpg" width="400">
+    - On the contact area, we provide email box for customer ask further enquiries.
+    
+<img src="assets/image/5.jpg" width="400">
+    - On the footer, we provide all the social media link, and location information of the company.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+## Technologies Used
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+* GitHub
+  - This project uses GitHub to store and share all project code remotely.
+  - The new GitHub Projects planner was utilised to plan and keep track of this project. This project plan can be viewed here.
+  
+* GitPod
+  - Developer used GitPod for their IDE while building the website.
+  
+* Photoshop
+  - his project used tools in Photohshop to edit, crop and save images as well as ulitising the colour picker to ensure color     consistency over the entire project.
+  
+* Google Fonts
+  - The project uses Google fonts to style the website fonts.
+  
+* Bootstrap
+  - The project uses Bootstrap to simplify the structure of the website and make the website responsive easily.
+  - The project also uses Bootstrap to provide icons from FontAwesome
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+* W3c Validator
+  - Using this website to check all the error in html.
+  
+* Google Cloud Platform
+  - Using this website to get the APi key for the google map.
+  
+* EmailJS
+  - Using this website get the APi key for the contact area.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+## Deployment
+This project was developed using the GitPod, and pushed to GitHub using the built in function within GitPod.
+To deploy the Mad's Lab, to GitHub Pages from its GitHub repository, the following steps have to be done:
+  - Log into GitHub.
+  - Navigate the GitHub repository.
+  - Click on the setting tab at the top of the repository bar.
+  - Scroll down on that page to the GitHub Pages section.
+  - The first drop-down field should be Source with None preselected.
+  - Select master branch from the list.
+  - The page should refresh.
+  - Scroll back down to the GitHub Pages section.
+  - You should now have a deployed link.
+  
+The Mad's mover project made use of several branches for development, testing and bug fixing. The Master Branch has always been the one deployed to GitHUb Pages. When displaying the website life, the developer tries to keep the master branch to optimal code only. At the moment of submitting this Milestone project the Development Branch and Master Branch are identical.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+## Credits
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+**Content**
+* All the content in this project is written by muhammad syafiq, and for the javascript is refer from stack overflow and google maps platform.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+**Media**
+* Image
+  - Most the building images in this project is own by Muhammad Syafiq.
+  - The Google Images and are used for project purposes only.
+  
+**Code**
+* Reference code for the html, css, and javascript are referred from W3School, Bootstrap, and stack overflow. 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Acknowledgements
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Special thanks to:
+* Code Institute Mentor, Miss Antonija Simic for his time and support in explaining and demonstrating areas of code this developer was struggling to understand.
+* Code Institute Tutor, for their time and support in explaining and demonstrating areas of code this developer was struggling to understand. 
 
---------
+## Disclaimer
 
-Happy coding!
+All the content of this website, including the images used, are for educational purposes only.
+ 
+A fully responsive website using CSS, javascript, and HTML5
+
