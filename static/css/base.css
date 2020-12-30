@@ -27,6 +27,10 @@ body {
     padding-top: 400px;
 }
 
+.checkout-header-container {
+    padding-top: 200px;
+}
+
 .logo-font {
     text-transform: uppercase;
 }
