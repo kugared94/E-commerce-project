@@ -304,8 +304,14 @@ input[name='q']::placeholder {
         height: calc(100vh - 116px);
     }
 
-    .display-4.logo-font.text-black {
-        font-size: 1rem;
+    .logo-font.text-black {
+        font-size: 2rem;
+    }
+
+    .display-4.display-4 {
+        font-size: 40px;
+        font-weight: 300;
+        line-height: 1.2;
     }
 
     .nav-link {
