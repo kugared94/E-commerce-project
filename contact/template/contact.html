@@ -54,6 +54,15 @@
 
 {% block postloadjs %}
     {{ block.super }}
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+    </script>
+    <script type="text/javascript">
+        (function(){
+            emailjs.init("user_A7kmOQNL3i0vNxE4CFj3f");
+        })();
+    </script>
+
     <script src="{% static 'contact/js/script.js' %}"></script>
     <script src="{% static 'contact/js/sendEmail.js' %}"></script>
 {% endblock %}
