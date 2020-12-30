@@ -20,7 +20,7 @@ body {
 }
 
 .header-container-main-page {
-    padding-top: 600px;
+    padding-top: 300px;
 }
 
 .header-container {
@@ -293,12 +293,8 @@ input[name='q']::placeholder {
         z-index: 1030;
     }
 
-    .header-container-main-page {
-        padding-top: 120px;
-    }
-
     .header-container {
-        padding-top: 60px;
+        padding-top: 200px;
     }
 
     .display-4.display-4 {
@@ -377,4 +373,5 @@ input[name='q']::placeholder {
         color: rgb(255, 255, 255);
         min-width: 150px;
     }
+}
 }

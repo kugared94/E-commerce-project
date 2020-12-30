@@ -65,4 +65,6 @@ select option[value=""] {
     height: 100%;
 }
 
-header-container
+.header-container {
+    padding-top: 500px;
+}
