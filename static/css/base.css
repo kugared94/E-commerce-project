@@ -285,8 +285,25 @@ input[name='q']::placeholder {
         z-index: 1030;
     }
 
+    .header-container-main-page {
+        padding-top: 120px;
+    }
+
     .header-container {
-        padding-top: 164px;
+        padding-top: 60px;
+    }
+
+    .buy-now-button {
+        background: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        min-width: 150px;
+    }
+
+    .display-4.display-4 {
+        font-size: 50px;
+        font-weight: 300;
+        line-height: 1.2;
+        padding-top: 20px;
     }
 }
 
