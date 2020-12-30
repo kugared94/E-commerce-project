@@ -292,6 +292,10 @@ input[name='q']::placeholder {
 
 /* pad the top a bit when navbar is collapsed on mobile */
 @media (max-width: 991px) {
+    .header-container-main-page {
+        padding-top: 120px;
+    }
+
     .header-container {
         padding-top: 60px;
     }
@@ -334,5 +338,11 @@ input[name='q']::placeholder {
 
     .increment-qty, .decrement-qty {
         padding: .25rem .5rem !important;
+    }
+
+    .buy-now-button {
+        background: rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+        min-width: 150px;
     }
 }
