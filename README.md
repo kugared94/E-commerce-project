@@ -103,8 +103,14 @@ What is Mad Commerce ?
 * W3c Validator
   - Using this website to check all the error in html.
 
+* Diffchecker
+  - Using this website get differentiation code.
+
+* Stripe
+  - Using this website get the payment on log order.
+
 * EmailJS
-  - Using this website get the APi key for the contact area.
+  - Using this website get the APi key for the Email.
 
 * Hiroku
   - Using this website as a deployment.
@@ -139,7 +145,7 @@ Project - Boutique Ado, and for the javascript is refer from stack overflow.
   - The Google Images and are used for project purposes only.
   
 **Code**
-* Reference code for the html, css, and javascript are referred from W3School, Bootstrap, stack overflow, Hiroku, and AWS amazon. 
+* Reference code for the html, css, javascript, Python are referred from W3School, Bootstrap, stack overflow, Stripe, Hiroku, and AWS amazon. 
 
 ## Acknowledgements
 
@@ -151,5 +157,5 @@ Special thanks to:
 
 All the content of this website, including the images used, are for educational purposes only.
  
-A fully responsive website using CSS, javascript, and HTML5
+A fully responsive website using Python, CSS, javascript, and HTML5
 
