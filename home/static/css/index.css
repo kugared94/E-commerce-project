@@ -42,33 +42,33 @@
 
 @keyframe slide {
     0%{
-        background-image: url('home/static/css/background1.jpg');
+        background-image: url('media/background1.jpg');
     }
     20%{
-        background-image: url('home/static/css/background1.jpg');
+        background-image: url('media/background1.jpg');
     }
     20.01%{
-        background-image: url('home/static/css/background2.jpg');
+        background-image: url('media/background2.jpg');
     }
     40%{
-        background-image: url('home/static/css/background2.jpg');
+        background-image: url('media/background2.jpg');
     }
     40.01%{
-        background-image: url('home/static/css/background3.jpg');
+        background-image: url('media/background3.jpg');
     }
     60%{
-        background-image: url('home/static/css/background3.jpg');
+        background-image: url('media/background3.jpg');
     }
     60.01%{
-        background-image: url('home/static/css/background4.jpg');
+        background-image: url('media/background4.jpg');
     }
     80%{
-        background-image: url('home/static/css/background4.jpg');
+        background-image: url('hmedia/background4.jpg');
     }
     80.01%{
-        background-image: url('home/static/css/background5.jpg');
+        background-image: url('media/background5.jpg');
     }
     100%{
-        background-image: url('home/static/css/background5.jpg');
+        background-image: url('media/background5.jpg');
     }
 }
