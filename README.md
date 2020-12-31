@@ -1,6 +1,6 @@
 ### Project Discription.
 
-<img src="assets/image/logo-2.png" width="100">
+<img src="media/logo.jpg" width="100">
 
 **Mad's Mover.**
 
@@ -23,10 +23,13 @@ What is Mad Commerce ?
 
 ## Feature
 
-<img src="assets/image/1.jpg" width="400">
-    - On arriving at the page for the first time, this word have been shown to inform the user what this website is about.
+<img src="media/1.jpg" width="400">
+    - On arriving at the page for the first time, they will see the building apartment design with sign of
+    "new Design is here" and buy now button.
 
-<img src="assets/image/2.jpg" width="400">
+<img src="media/2.jpg" width="400">
+<img src="media/3.jpg" width="400">
+<img src="media/4.jpg" width="400">
     - On the Count Distance, we provide customer map to count distance from starting point to destination, this code have been refer to developers.google.com.
 
 <img src="assets/image/3.jpg" width="400">
