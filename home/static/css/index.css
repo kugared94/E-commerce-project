@@ -1,0 +1,74 @@
+.load {
+    animation: slide 2s;
+}
+
+.slider {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    animation: slide 40s infinite;
+}
+
+.content {
+    color: #ffffff;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.principal {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+.principal h1 {
+    font-size: 75px;
+    margin-bottom: 20px;
+}
+
+.principal-buy-now-button {
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    letter-spacing: 5px;
+    text-align: center;
+}
+
+@keyframe slide {
+    0%{
+        background-image: url('home/static/css/background1.jpg');
+    }
+    20%{
+        background-image: url('home/static/css/background1.jpg');
+    }
+    20.01%{
+        background-image: url('home/static/css/background2.jpg');
+    }
+    40%{
+        background-image: url('home/static/css/background2.jpg');
+    }
+    40.01%{
+        background-image: url('home/static/css/background3.jpg');
+    }
+    60%{
+        background-image: url('home/static/css/background3.jpg');
+    }
+    60.01%{
+        background-image: url('home/static/css/background4.jpg');
+    }
+    80%{
+        background-image: url('home/static/css/background4.jpg');
+    }
+    80.01%{
+        background-image: url('home/static/css/background5.jpg');
+    }
+    100%{
+        background-image: url('home/static/css/background5.jpg');
+    }
+}
