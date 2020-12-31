@@ -28,19 +28,58 @@ What is Mad Commerce ?
     "new Design is here" and buy now button.
 
 <img src="media/2.jpg" width="400">
+    - As a new Customer, For them to know the product or design that the website sell,
+    they always can click buy now button, or go to the nav bar and click all design.
 <img src="media/3.jpg" width="400">
+<img src="media/5.jpg" width="400">
+<img src="media/6.jpg" width="400">
+    - And customer can choose the design base on what they prefer base on category such as house, apartment, or complex.
+    - And the customer can search their model through price range, A-Z name, and Ratings.
 <img src="media/4.jpg" width="400">
-    - On the Count Distance, we provide customer map to count distance from starting point to destination, this code have been refer to developers.google.com.
+    - This is the page of the product view.
 
-<img src="assets/image/3.jpg" width="400">
-    - on the careers area, we shown avaiable position to those who seeking a job in the company.
+<img src="media/7.jpg" width="400">
+    - On the contact area, New Customer or Existing Customer have any question, they can send email directly to Mad Commerce.
 
-<img src="assets/image/4.jpg" width="400">
-    - On the contact area, we provide email box for customer ask further enquiries.
+<img src="media/8.jpg" width="400">
+    - To new customer, if they want to buy the design, they can register account and fill the form.
     
-<img src="assets/image/5.jpg" width="400">
-    - On the footer, we provide all the social media link, and location information of the company.
+    
+<img src="media/9.jpg" width="400">
+<img src="media/10.jpg" width="400">
+    - After register, they can see the popup message that their account successfully signed in.
 
+<img src="media/11.jpg" width="400">
+<img src="media/2.jpg" width="400">
+    - Customer can see that their shopping bag is empty, and the keep shopping button can bring them to all design page
+    to sellect the desing to buy.
+
+<img src="media/12.jpg" width="400">
+<img src="media/13.jpg" width="400">
+    - After customer have sellect the design to buy. and sellect the "add to bag" button,
+    they can see the popup message that the item is successfull added to their shopping bag.
+    - After shopping bag page, Customer can edit the quantity and ready to check out.
+
+<img src="media/14.jpg" width="400">
+    - On checkout page, Customer need to fill the form, but since they already fill the register form,
+    form will automatically fill with the customer information as default, but customer can still edit if they want to change.
+    - If New Customer didn't register, they still can buy the product or design, but thet need to repeatedly fill the form all over again
+    everytime they want to make new payment. 
+
+<img src="media/15.jpg" width="400">
+    - After make the payment, customer will get to see that payment receipt page. to show their purchases detail.
+
+<img src="media/16.jpg" width="400">
+<img src="media/17.jpg" width="400">
+    - When customer want to logout from the website, they can click on profile icon,
+    and the will see popup message that their account is successfully log out.
+
+<img src="media/18.jpg" width="400">
+<img src="media/19.jpg" width="400">
+<img src="media/20.jpg" width="400">
+<img src="media/21.jpg" width="400">
+    - When User using Admin Account, they can Add at their profile icon, Remove or Edit button on their all design page.
+    
 
 ## Technologies Used
 
