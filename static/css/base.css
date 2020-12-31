@@ -19,7 +19,7 @@ body {
 }
 
 .header-container-main-page {
-    padding-top: 200px;
+    padding-top: 110px;
 }
 
 .header-container {
@@ -375,5 +375,10 @@ input[name='q']::placeholder {
         background: rgb(0, 0, 0);
         color: rgb(255, 255, 255);
         min-width: 150px;
+    }
+
+    .principal h1 {
+        font-size: 20px;
+        margin-bottom: 20px;
     }
 }
