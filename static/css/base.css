@@ -3,6 +3,7 @@ html {
 }
 
 body {
+    background-image: url('/media/background1.jpg');
     background-size: cover;
     height: calc(100vh - 164px);
     color: #555;
@@ -317,7 +318,7 @@ input[name='q']::placeholder {
 /* pad the top a bit when navbar is collapsed on mobile */
 @media (max-width: 991px) {
     .header-container-main-page {
-        padding-top: 120px;
+        padding-top: 80px;
     }
 
     .header-container {
